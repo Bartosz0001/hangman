@@ -1,0 +1,10 @@
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\bin\Debug\Hangman-task.exe.config
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\bin\Debug\Hangman-task.exe
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\bin\Debug\Hangman-task.pdb
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman-task.csproj.AssemblyReference.cache
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman_task.Form1.resources
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman_task.Properties.Resources.resources
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman-task.csproj.GenerateResource.cache
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman-task.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman-task.exe
+C:\Users\Bartosz\source\repos\Hangman-task\Hangman-task\obj\Debug\Hangman-task.pdb
